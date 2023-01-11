@@ -6,7 +6,7 @@ $fileName = 'C:\Users\kichiu\Downloads\vms-metric-tags-hourly.csv'
 
 # login into Azure account
 # Connect-AzAccount -TenantId '***'
- Login-AzAccount
+Login-AzAccount
 
 
 # Loop through all subscriptions to get VMs metrics and tags
